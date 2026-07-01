@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0255/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽千手千眼觀自在菩薩修行儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1056.xml
+    old_id: T20n1056
+hash: sha256:fedfb32f2ecff44d53b1401f46586ad1627b69ff899dc9e596c0870560697fc2

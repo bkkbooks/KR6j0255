@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6j0255/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0255/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽千手千眼觀自在菩薩修行儀軌經
+  identifiers:
+    krp: KR6j0255
+    cbeta: T20n1056
+    cbeta_old_id: T20n1056
+    authorityid: CA0001654
+    json_key: T1056
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1056.xml
+    old_id: T20n1056
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0255_000-T.yaml, hash: 'sha256:fedfb32f2ecff44d53b1401f46586ad1627b69ff899dc9e596c0870560697fc2'}
+  - {seq: 1, filename: KR6j0255_001-T.yaml, hash: 'sha256:3f2a46e821242abc455e4649c3eb8d5e02d1f7eaf91d95242e1a4c5e9f9df2ae'}
+  - {seq: 2, filename: KR6j0255_002-T.yaml, hash: 'sha256:896ecc62ea57307b1842d38609cebb5950555cd56a7ef8fc8e2e260d890de701'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0255_000-T.markers.yaml, hash: 'sha256:a97ffb6db34efad5950a0caf60f9f6d51f7353064bb7f41638e82c9e225e77cd'}
+  - {seq: 1, role: markers, filename: assets/KR6j0255_001-T.markers.yaml, hash: 'sha256:1a10333c6f142a85a996aa6c7197e080ebcbb656a52487033422350cdb0a4c3b'}
+  - {seq: 2, role: markers, filename: assets/KR6j0255_002-T.markers.yaml, hash: 'sha256:1c359a4a04b0172e3541b8a049cdef410d2e3dcb6aadb92c951f0b3cf987c40d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0255_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5972
+  label: '金剛頂瑜伽千手千眼觀自在菩
+
+    薩修行儀軌經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0255_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7314
+  label: '金剛頂瑜伽千手千眼觀自在菩
+
+    薩修行儀軌經卷下'
+  type: juan
+  level: 1
+hash: sha256:d38876a48e5f09aeba7c5085d2b678760e3c2a3e863b5cc86691c7a1c8470250
